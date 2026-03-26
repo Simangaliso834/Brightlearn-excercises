@@ -1,1 +1,1 @@
-# Brightlearn-excercises
+# Brightlearn excercises
